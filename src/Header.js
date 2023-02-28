@@ -24,26 +24,26 @@ const Header = () => {
     <span className="nav_itemlineone">
     Hello Guest
     </span>
-    <div className="span nav_itellinetwo">
+    <span className="nav_itellinetwo">
     Sign In
-    </div>
+    </span>
 
     </div>
     <div className="nav_item">
     <span className="nav_itemlineone">
     Your
     </span>
-    <div className="span nav_itellinetwo">
+    <span className="nav_itellinetwo">
     Shop
-    </div>
+    </span>
     </div>
     <div className="nav_item">
-    <span className="nav_itemlineone">
+    <span className="nav_itembasket">
     <ShoppingBasketIcon />
     </span>
-    <div className="span nav_itellinetwo">
+    <span className="nav_itellinetwo nav_basketcount">
     0
-    </div>
+    </span>
     </div>
     
     </div>
