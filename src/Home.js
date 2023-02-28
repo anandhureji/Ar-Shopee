@@ -52,7 +52,7 @@ const Home = () => {
     <Product 
     id="6"
     title="SAMSUNG Galaxy Buds 2 Bluetooth Headset  (Graphite, True Wireless)" 
-    price={230}
+    price={2301}
     rating={4}
     image="https://rukminim1.flixcart.com/image/832/832/kst9gnk0/headphone/o/l/s/galaxy-buds-2-sm-r177nzkainu-samsung-original-imag6arjrmydyyef.jpeg?q=70"
     />
